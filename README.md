@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahanasParapporu
 - 👀 I’m interested in android development
-- 🌱 I’m currently an android developer intern
+- 🌱 I currently have 6 months experience in Android Development
 - 📫 You can reach me at shahanasparapporu@gmail.com
 
 <!---
