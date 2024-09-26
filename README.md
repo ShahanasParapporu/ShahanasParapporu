@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
 <h1 align="center">Hey There! Myself Shahanas</h1>
 <h3 align="center">A Curious and dedicated crafter of seamless Android experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
