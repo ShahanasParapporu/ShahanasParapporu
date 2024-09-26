@@ -22,6 +22,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
   </a><a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.RJWOmWLAcIJn5A5v3Tki0wHaIA?rs=1&pid=ImgDetMain" alt="jetpack compose" width="40" height="40"/>
+  </a> <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
+  </a><a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.uM8HdoZwc7yvLG3NvrMxaAHaHa?w=173&h=180&c=7&r=0&o=5&pid=1.7" alt="sourcetree" width="40" height="40"/>
+  </a> <a href="https://www.openproject.org/" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.5RmwMuxHaGHJvdU7iHudtAAAAA?w=122&h=150&c=7&r=0&o=5&pid=1.7" alt="openproject" width="40" height="40"/>
+  </a><a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.kMEWXdTI7aDeIAzztc2mPwHaGx?w=212&h=194&c=7&r=0&o=5&pid=1.7" alt="microsoft teams" width="40" height="40"/>
+  </a> <a href="https://www.cisco.com/c/en/us/products/unified-communications/jabber.html" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.rl6grZ7X6b8VJX3cQ1D9SgAAAA?w=173&h=180&c=7&r=0&o=5&pid=1.7" alt="cisco jabber" width="40" height="40"/>
   </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahanasparapporu&show_icons=true&locale=en&layout=compact" alt="shahanasparapporu" /></p>
