@@ -18,6 +18,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a> <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="40" height="40"/>
+  </a><a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
+  </a><a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.RJWOmWLAcIJn5A5v3Tki0wHaIA?rs=1&pid=ImgDetMain" alt="jetpack compose" width="40" height="40"/>
   </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahanasparapporu&show_icons=true&locale=en&layout=compact" alt="shahanasparapporu" /></p>
