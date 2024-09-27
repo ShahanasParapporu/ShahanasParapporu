@@ -32,7 +32,9 @@
     <img src="https://th.bing.com/th/id/OIP.kMEWXdTI7aDeIAzztc2mPwHaGx?w=212&h=194&c=7&r=0&o=5&pid=1.7" alt="microsoft teams" width="40" height="40"/>
   </a> <a href="https://www.cisco.com/c/en/us/products/unified-communications/jabber.html" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.rl6grZ7X6b8VJX3cQ1D9SgAAAA?w=173&h=180&c=7&r=0&o=5&pid=1.7" alt="cisco jabber" width="40" height="40"/>
-  </a></p>
+  </a><a href="https://anydesk.com/en" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th?id=OIP.7BC3YEpRwgRZSYCcjxF6wAAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2" alt="Anydesk" width="40" height="40"/>
+</a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahanasparapporu&show_icons=true&locale=en&layout=compact" alt="shahanasparapporu" /></p>
 
