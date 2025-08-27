@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Android App Development/ Mobile Development**
 
-- 🌏 I know **English, Malayalam and Hindi along with basic Tamil and Arabic.**
+- 🌏 I know **English, Hindi, Arabic, Tamil and Malayalam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
