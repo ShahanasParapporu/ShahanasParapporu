@@ -2,7 +2,7 @@
 <h3 align="center">A Curious and dedicated crafter of seamless Android experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
 
-- 💬 Ask me about **Android App Development/ Mobile Development**
+- 💬 Ask me about **Android App Development/ Mobile Development or Flutter Development**
 
 - 🌏 I know **English, Hindi, Arabic, Tamil and Malayalam**
 
