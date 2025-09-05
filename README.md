@@ -1,5 +1,5 @@
 <h1 align="center">Hey There! 👋 Myself Shahanas</h1>
-<h3 align="center">A Curious and Dedicated Crafter of Seamless Android Experiences</h3>
+<h3 align="center">A Curious and Dedicated Crafter of Seamless Mobile Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
 
 ---
