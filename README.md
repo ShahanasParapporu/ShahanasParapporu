@@ -1,17 +1,56 @@
-<h1 align="center">Hey There! Myself Shahanas</h1>
-<h3 align="center">A Curious and dedicated crafter of seamless Android experiences</h3>
+<h1 align="center">Hey There! 👋 Myself Shahanas</h1>
+<h3 align="center">A Curious and Dedicated Crafter of Seamless Android Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif">
 
-- 💬 Ask me about **Android App / Mobile / Flutter Development**
+---
 
+- 💬 Ask me about **Android App / Mobile / Flutter Development**  
 - 🌏 I know **English, Hindi, Arabic, Tamil and Malayalam**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🚀 Languages & Frameworks</h3>
+
+- **Android** | **Kotlin** | **Java** | **XML**  
+- **Jetpack Compose** | **Flutter** | **Dart**
+
+---
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+- **IDE & Tools:** Android Studio, Android SDK, Gradle  
+- **Architecture:** MVVM, Clean Architecture, Jetpack Libraries  
+- **Core:** ViewModel, Coroutines, Room, OOP, Live Data, Navigation, Multithreading, Dependency Injection  
+- **Networking & APIs:** RESTful APIs, Retrofit, OkHttp, JSON, WebSockets  
+- **UI/UX:** Design Patterns, Memory Management, Google Maps, Firebase  
+
+---
+
+<h3 align="left">🧪 Testing Tools</h3>
+
+- Code Reviews | Debugging | JUnit  
+- Espresso | Automated UI Tests | Unit Tests  
+
+---
+
+<h3 align="left">📦 Version Control & Publishing</h3>
+
+- Git | GitHub | Bitbucket | DevOps  
+- Agile Methodologies | CI/CD  
+- Google Play Store Deployment  
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahanas-p-83232423a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahanas-p-83232423a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahanas-p-83232423a" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+alt="shahanas-p-83232423a" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">⚙️ Languages and Tools</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Un9N379Cd-UXyc2SD4wiyAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://developer.android.com/training/testing/espresso" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.jiTBQmVtH_sHZouNMoRFFAHaHk?w=163&h=180&c=7&r=0&o=5&pid=1.7" alt="espresso" width="40" height="40"/>
   </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -34,8 +73,15 @@
     <img src="https://th.bing.com/th/id/OIP.rl6grZ7X6b8VJX3cQ1D9SgAAAA?w=173&h=180&c=7&r=0&o=5&pid=1.7" alt="cisco jabber" width="40" height="40"/>
   </a><a href="https://anydesk.com/en" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th?id=OIP.7BC3YEpRwgRZSYCcjxF6wAAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&cb=13&pid=3.1&rm=2" alt="Anydesk" width="40" height="40"/>
-</a></p>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahanasparapporu&show_icons=true&locale=en&layout=compact" alt="shahanasparapporu" /></p>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahanasparapporu&show_icons=true&locale=en&layout=compact" alt="shahanasparapporu" />
+</p>
+
 
 
