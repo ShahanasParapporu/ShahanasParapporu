@@ -46,15 +46,15 @@
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
-- **IDE & Tools:** Android Studio, Android SDK, Gradle  
+- **IDE & Tools:** Android Studio, Visual Studio Code, Android SDK, Gradle  
 - **Architecture:** MVVM, Clean Architecture, Jetpack Libraries  
-- **Core:** ViewModel, Coroutines, Room, OOP, Live Data, Navigation, Multithreading, Dependency Injection  
-- **Networking & APIs:** RESTful APIs, Retrofit, OkHttp, JSON, WebSockets  
-- **UI/UX:** Design Patterns, Memory Management, Google Maps, Firebase  
+- **Core:** ViewModel, Coroutines, Room, OOP, Live Data, Navigation, Multithreading, Dependency Injection 
+- **Networking & APIs:** RESTful APIs, Retrofit, OkHttp, JSON, WebSockets, Glide
+- **UI/UX & others:** Design Patterns, Material Design , Memory Management, App optimisation, Google Maps, Firebase  
 
 ---
 
-<h3 align="left">🧪 Testing Tools</h3>
+<h3 align="left">🧪 Testing </h3>
 
 - Code Reviews | Debugging | JUnit  
 - Espresso | Automated UI Tests | Unit Tests  
