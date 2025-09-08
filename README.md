@@ -7,8 +7,8 @@
 - 💬 Ask me about **Android / Mobile / Flutter Development**  
 - 🌏 I know **English, Hindi, Arabic, Tamil and Malayalam**
 - 🌟 Always open to **interesting and impactful projects** — whether it’s building from scratch or enhancing existing solutions, I’d love to contribute.
-- 💡 Skilled in modern app architectures (MVVM, Clean Architecture), state management, Firebase integration, APIs, UI/UX optimization, and creating scalable, maintainable codebases.
-- 🤝 Open to freelance projects, collaborations, or long-term opportunities where innovation and quality matter.
+- 💡 Skilled in modern app architectures **(MVVM, Clean Architecture), state management, Firebase integration, APIs, UI/UX optimization, and creating scalable, maintainable codebases**.
+- 🤝 **Open to freelance projects**, collaborations, or long-term opportunities where innovation and quality matter.
 - 📬 For collaboration or development services, reach out at **shahanasparapporu@gmail.com** ✉️
 
 <h3 align="left">⚙️ Tools</h3>
