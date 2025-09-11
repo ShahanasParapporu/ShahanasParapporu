@@ -13,7 +13,6 @@
 - Testing Tools: Code Reviews, Debugging, JUnit, Espresso, Automated UI Tests, Unit Tests
 
 - Version Control & Publishing: Git, GitHub, Azure DevOps, Bitbucket, Agile Methodologies, Google Play Store, CI/CD
-- 
 - 🤝 **Open to freelance projects**, collaborations, or long-term opportunities where innovation and quality matter.
 - 📬 For collaboration or development services, reach out at **shahanasparapporu@gmail.com** ✉️
 
