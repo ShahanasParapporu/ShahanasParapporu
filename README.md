@@ -8,6 +8,12 @@
 - 🌏 I know **English, Hindi, Arabic, Tamil and Malayalam**
 - 🌟 Always open to **interesting and impactful projects** — whether it’s building from scratch or enhancing existing solutions, I’d love to contribute.
 - 💡 Skilled in **Android, Kotlin, Java, XML, Jetpack Compose, Flutter, Dart, and C++** with expertise in modern app architectures (MVVM, Clean Architecture), database management, state management, Firebase integration, RESTful APIs, Google Maps, UI/UX optimization, and building scalable, maintainable codebases.
+- Tech Stack: Android Studio, Android SDK, Gradle, Jetpack libraries, ViewModel, Coroutines, Room, OOP, LiveData, Navigation, Multithreading, Dependency Injection, JSON, Data Binding, Image Processing, Memory Management, Retrofit, OkHttp, Firebase, Google Maps
+
+- Testing Tools: Code Reviews, Debugging, JUnit, Espresso, Automated UI Tests, Unit Tests
+
+- Version Control & Publishing: Git, GitHub, Azure DevOps, Bitbucket, Agile Methodologies, Google Play Store, CI/CD
+- 
 - 🤝 **Open to freelance projects**, collaborations, or long-term opportunities where innovation and quality matter.
 - 📬 For collaboration or development services, reach out at **shahanasparapporu@gmail.com** ✉️
 
