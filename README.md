@@ -59,9 +59,9 @@
 
 ---
 
-<h3 align="left">🌐 **IoT & Embedded Systems**</h3>
-- **ESP32 | Arduino | IoT Architecture | Embedded C/C++ | Assembly Language**
-- **Sensors & Actuators | GPS | DC Motors | APM 2.8 | RTOS**  
+<h3 align="left">🤖 IoT & Embedded Systems</h3>
+- ESP32 | Arduino | IoT Architecture | Embedded C/C++ | Assembly Language
+- Sensors & Actuators | GPS | DC Motors | APM 2.8 | RTOS
 
 ---
 
