@@ -4,23 +4,25 @@
 
 ---
 
-💬 Ask me about Mobile and Web Development / Electronics / IoT Development
+💬 Ask me about **Mobile and Web Development / Electronics / IoT Development**
+
 🌏 Proficient in English, Hindi, Arabic, Tamil, and Malayalam
+
 🌟 Open to interesting and impactful projects — whether building from scratch or enhancing existing solutions, I aim to contribute effectively.
 
-💡 Technical Expertise:
+**💡 Technical Expertise:**
 
-Languages & Frameworks: Android, Kotlin, Java, XML, Jetpack Compose, Flutter, Dart, C++, React Native, Python, JavaScript (React, Node.js), SQL
+**Languages & Frameworks**: Android, Kotlin, Java, XML, Jetpack Compose, Flutter, Dart, C++, React Native, Python, JavaScript (React, Node.js), SQL
 
-Tech Stack & Libraries: Android Studio, Android SDK, Gradle, MVVM, Clean Architecture, Jetpack libraries, ViewModel, Coroutines, Room, OOP, LiveData, Navigation, Multithreading, DI, RESTful APIs, UI/UX Design, JSON, Memory Management, Retrofit, Firebase, Google Maps, Widgets, State Management (Riverpod, Provider)
+**Tech Stack & Libraries**: Android Studio, Android SDK, Gradle, MVVM, Clean Architecture, Jetpack libraries, ViewModel, Coroutines, Room, OOP, LiveData, Navigation, Multithreading, DI, RESTful APIs, UI/UX Design, JSON, Memory Management, Retrofit, Firebase, Google Maps, Widgets, State Management (Riverpod, Provider)
 
-IoT & Embedded Systems: ESP32, Arduino, IoT Architecture, Embedded C/C++, Assembly Language, Sensors & Actuators, GPS, DC Motors, APM 2.8, RTOS
+**IoT & Embedded Systems**: ESP32, Arduino, IoT Architecture, Embedded C/C++, Assembly Language, Sensors & Actuators, GPS, DC Motors, APM 2.8, RTOS
 
-Testing Tools: Code Reviews, Debugging, JUnit, Espresso, Automated Tests, Unit Tests, Code Coverage
+**Testing Tools**: Code Reviews, Debugging, JUnit, Espresso, Automated Tests, Unit Tests, Code Coverage
 
-Version Control & Publishing: Git, GitHub, Azure DevOps, Google Cloud, Bitbucket, Agile Methodologies, Google Play Store, CI/CD
+**Version Control & Publishing**: Git, GitHub, Azure DevOps, Google Cloud, Bitbucket, Agile Methodologies, Google Play Store, CI/CD
 
-🤝 Open to freelance projects, collaborations, or long-term opportunities where innovation and quality matter.
+🤝 **Open to freelance projects**, collaborations, or long-term opportunities where innovation and quality matter.
 📬 Reach out for collaboration or development services: shahanasparapporu@gmail.com
 
 <h3 align="left">⚙️ Tools</h3>
