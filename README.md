@@ -10,18 +10,6 @@
 
 🌟 Open to interesting and impactful projects — whether building from scratch or enhancing existing solutions, I aim to contribute effectively.
 
-**💡 Technical Expertise:**
-
-**Languages & Frameworks**: Android, Kotlin, Java, XML, Jetpack Compose, Flutter, Dart, C++, React Native, Python, JavaScript (React, Node.js), SQL
-
-**Tech Stack & Libraries**: Android Studio, Android SDK, Gradle, MVVM, Clean Architecture, Jetpack libraries, ViewModel, Coroutines, Room, OOP, LiveData, Navigation, Multithreading, DI, RESTful APIs, UI/UX Design, JSON, Memory Management, Retrofit, Firebase, Google Maps, Widgets, State Management (Riverpod, Provider)
-
-**IoT & Embedded Systems**: ESP32, Arduino, IoT Architecture, Embedded C/C++, Assembly Language, Sensors & Actuators, GPS, DC Motors, APM 2.8, RTOS
-
-**Testing Tools**: Code Reviews, Debugging, JUnit, Espresso, Automated Tests, Unit Tests, Code Coverage
-
-**Version Control & Publishing**: Git, GitHub, Azure DevOps, Google Cloud, Bitbucket, Agile Methodologies, Google Play Store, CI/CD
-
 🤝 **Open to freelance projects**, collaborations, or long-term opportunities where innovation and quality matter.
 📬 Reach out for collaboration or development services: shahanasparapporu@gmail.com
 
@@ -57,7 +45,7 @@
 <h3 align="left">🚀 Languages & Frameworks</h3>
 
 - **Android** | **Kotlin** | **Java** | **XML**  
-- **Jetpack Compose** | **Flutter** | **Dart**
+- **Jetpack Compose** | **Flutter** | **Dart** | **C++** | **React Native** | **Python** | **JavaScript (React, Node.js)** | **SQL**
 
 ---
 
@@ -67,7 +55,13 @@
 - **Architecture:** MVVM, Clean Architecture, Jetpack Libraries  
 - **Core:** ViewModel, Coroutines, Room, OOP, Live Data, Navigation, Multithreading, Dependency Injection 
 - **Networking & APIs:** RESTful APIs, Retrofit, OkHttp, JSON, WebSockets, Glide
-- **UI/UX & others:** Design Patterns, Material Design , Memory Management, App optimisation, Google Maps, Firebase  
+- **UI/UX & others:** Design Patterns, Material Design , Memory Management, App optimisation, Google Maps, Firebase
+
+---
+
+<h3 align="left">🌐 **IoT & Embedded Systems**</h3>
+- **ESP32 | Arduino | IoT Architecture | Embedded C/C++ | Assembly Language**
+- **Sensors & Actuators | GPS | DC Motors | APM 2.8 | RTOS**  
 
 ---
 
@@ -82,7 +76,7 @@
 
 - Git | GitHub | Bitbucket | DevOps  
 - Agile Methodologies | CI/CD  
-- Google Play Store Deployment  
+- Google Play Store Deployment | Google Cloud
 
 ---
 
